@@ -1,0 +1,6 @@
+owner=475317936719003660
+prefix=%
+game=!  ~Frozen , Server.., | %play
+stayinchannel=true
+songinstatus=false
+token=NTM4NDA1MDkzODAwNjczMzIx.DyzWDg.O3SBUGznR4EFxLysB5YqnnGUFgk
